@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.e509d52a.css",
-    "main.js": "/static/js/main.c89fb529.js",
+    "main.js": "/static/js/main.01fe6e1e.js",
     "static/js/589.a8f6ecc0.chunk.js": "/static/js/589.a8f6ecc0.chunk.js",
-    "static/js/674.8a8ac735.chunk.js": "/static/js/674.8a8ac735.chunk.js",
+    "static/js/674.0836d0df.chunk.js": "/static/js/674.0836d0df.chunk.js",
     "static/js/981.58e6e9cb.chunk.js": "/static/js/981.58e6e9cb.chunk.js",
     "static/js/577.20ceedc2.chunk.js": "/static/js/577.20ceedc2.chunk.js",
     "static/js/973.b3f8c63d.chunk.js": "/static/js/973.b3f8c63d.chunk.js",
@@ -18,12 +18,12 @@
     "static/media/entre-expo.png": "/static/media/entre-expo.54728439731cfe640d74.png",
     "static/media/expo-background.png": "/static/media/expo-background.86b06aecd751882265fa.png",
     "static/media/booth_2x1_2.jpg": "/static/media/booth_2x1_2.b5221afef90bc8aaf005.jpg",
-    "static/media/loby-expo-hall.png": "/static/media/loby-expo-hall.6abbaa0539dd73315c0e.png",
+    "static/media/loby-expo-hall.png": "/static/media/loby-expo-hall.3c7d7097740b21b063b6.png",
     "index.html": "/index.html",
     "main.e509d52a.css.map": "/static/css/main.e509d52a.css.map",
-    "main.c89fb529.js.map": "/static/js/main.c89fb529.js.map",
+    "main.01fe6e1e.js.map": "/static/js/main.01fe6e1e.js.map",
     "589.a8f6ecc0.chunk.js.map": "/static/js/589.a8f6ecc0.chunk.js.map",
-    "674.8a8ac735.chunk.js.map": "/static/js/674.8a8ac735.chunk.js.map",
+    "674.0836d0df.chunk.js.map": "/static/js/674.0836d0df.chunk.js.map",
     "981.58e6e9cb.chunk.js.map": "/static/js/981.58e6e9cb.chunk.js.map",
     "577.20ceedc2.chunk.js.map": "/static/js/577.20ceedc2.chunk.js.map",
     "973.b3f8c63d.chunk.js.map": "/static/js/973.b3f8c63d.chunk.js.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.e509d52a.css",
-    "static/js/main.c89fb529.js"
+    "static/js/main.01fe6e1e.js"
   ]
 }
