@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.066839f6.css",
-    "main.js": "/static/js/main.32913203.js",
+    "main.js": "/static/js/main.1d3074ff.js",
     "static/js/589.a8f6ecc0.chunk.js": "/static/js/589.a8f6ecc0.chunk.js",
     "static/js/674.0836d0df.chunk.js": "/static/js/674.0836d0df.chunk.js",
     "static/js/981.58e6e9cb.chunk.js": "/static/js/981.58e6e9cb.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/loby-expo-hall.png": "/static/media/loby-expo-hall.3c7d7097740b21b063b6.png",
     "index.html": "/index.html",
     "main.066839f6.css.map": "/static/css/main.066839f6.css.map",
-    "main.32913203.js.map": "/static/js/main.32913203.js.map",
+    "main.1d3074ff.js.map": "/static/js/main.1d3074ff.js.map",
     "589.a8f6ecc0.chunk.js.map": "/static/js/589.a8f6ecc0.chunk.js.map",
     "674.0836d0df.chunk.js.map": "/static/js/674.0836d0df.chunk.js.map",
     "981.58e6e9cb.chunk.js.map": "/static/js/981.58e6e9cb.chunk.js.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.066839f6.css",
-    "static/js/main.32913203.js"
+    "static/js/main.1d3074ff.js"
   ]
 }
