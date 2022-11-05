@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e950de54.css",
-    "main.js": "/static/js/main.52e7422d.js",
+    "main.js": "/static/js/main.f78ec949.js",
     "static/js/817.56fe4e90.chunk.js": "/static/js/817.56fe4e90.chunk.js",
-    "static/js/588.ee8bee2f.chunk.js": "/static/js/588.ee8bee2f.chunk.js",
+    "static/js/588.bdd40d2e.chunk.js": "/static/js/588.bdd40d2e.chunk.js",
     "static/js/536.73ba8ad9.chunk.js": "/static/js/536.73ba8ad9.chunk.js",
     "static/js/727.72692357.chunk.js": "/static/js/727.72692357.chunk.js",
     "static/js/973.d31f2ca8.chunk.js": "/static/js/973.d31f2ca8.chunk.js",
     "static/css/594.f9f903f5.chunk.css": "/static/css/594.f9f903f5.chunk.css",
-    "static/js/594.6624f16c.chunk.js": "/static/js/594.6624f16c.chunk.js",
+    "static/js/594.e4ed6bdb.chunk.js": "/static/js/594.e4ed6bdb.chunk.js",
     "static/js/952.1f5248d3.chunk.js": "/static/js/952.1f5248d3.chunk.js",
     "static/js/972.400ac64b.chunk.js": "/static/js/972.400ac64b.chunk.js",
     "static/js/176.f6a42011.chunk.js": "/static/js/176.f6a42011.chunk.js",
@@ -22,21 +22,21 @@
     "static/media/booth_2x1_1.png": "/static/media/booth_2x1_1.85bdf4f2bb1a910b19b1.png",
     "static/media/booth_2x1_2.jpg": "/static/media/booth_2x1_2.b5221afef90bc8aaf005.jpg",
     "static/media/entre-expo.png": "/static/media/entre-expo.ea5817600972c3fe4bbe.png",
-    "static/media/expo-background.png": "/static/media/expo-background.42999c3bbc12eec28c7a.png",
-    "static/media/loby-expo-hall.png": "/static/media/loby-expo-hall.a56580b360c741187786.png",
+    "static/media/expo-background.png": "/static/media/expo-background.1f3f9ef5b44d4bcd1d6d.png",
+    "static/media/loby-expo-hall.png": "/static/media/loby-expo-hall.475ffcb324aa3154e4ec.png",
     "static/media/business-woman.png": "/static/media/business-woman.f06bb08dfccad08a4bfa.png",
     "static/media/ipb-jobfair-logo.png": "/static/media/ipb-jobfair-logo.db8dd116101bc6da86b9.png",
     "static/media/case.png": "/static/media/case.44b0efcea0a69c038b3a.png",
     "index.html": "/index.html",
     "main.e950de54.css.map": "/static/css/main.e950de54.css.map",
-    "main.52e7422d.js.map": "/static/js/main.52e7422d.js.map",
+    "main.f78ec949.js.map": "/static/js/main.f78ec949.js.map",
     "817.56fe4e90.chunk.js.map": "/static/js/817.56fe4e90.chunk.js.map",
-    "588.ee8bee2f.chunk.js.map": "/static/js/588.ee8bee2f.chunk.js.map",
+    "588.bdd40d2e.chunk.js.map": "/static/js/588.bdd40d2e.chunk.js.map",
     "536.73ba8ad9.chunk.js.map": "/static/js/536.73ba8ad9.chunk.js.map",
     "727.72692357.chunk.js.map": "/static/js/727.72692357.chunk.js.map",
     "973.d31f2ca8.chunk.js.map": "/static/js/973.d31f2ca8.chunk.js.map",
     "594.f9f903f5.chunk.css.map": "/static/css/594.f9f903f5.chunk.css.map",
-    "594.6624f16c.chunk.js.map": "/static/js/594.6624f16c.chunk.js.map",
+    "594.e4ed6bdb.chunk.js.map": "/static/js/594.e4ed6bdb.chunk.js.map",
     "952.1f5248d3.chunk.js.map": "/static/js/952.1f5248d3.chunk.js.map",
     "972.400ac64b.chunk.js.map": "/static/js/972.400ac64b.chunk.js.map",
     "176.f6a42011.chunk.js.map": "/static/js/176.f6a42011.chunk.js.map",
@@ -49,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.e950de54.css",
-    "static/js/main.52e7422d.js"
+    "static/js/main.f78ec949.js"
   ]
 }
